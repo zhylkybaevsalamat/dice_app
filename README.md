@@ -1,4 +1,4 @@
-# tapshyrma_5
+# dice_app
 
 A new Flutter project.
 
